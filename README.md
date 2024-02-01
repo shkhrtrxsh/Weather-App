@@ -1,1 +1,1 @@
-Weatheer App!
+Weather App!
